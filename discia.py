@@ -18,3 +18,4 @@ elif islem == "gonderme" :
 
 else :
 	print("Gecersiz islem girdiniz. Lütfen tekrar deneyiniz.")
+
