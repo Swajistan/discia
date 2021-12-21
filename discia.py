@@ -13,7 +13,7 @@ elif islem == "silme" :
 	print(x / y)
 elif islem == "gonderme" :
 	x = float(input("Gondermek istediginiz dosyanin adini yaziniz: "))
-	y = float(input("Gondermek icin gereken 2. dosyanin adini yaziniiz: "))
+	y = float(input("Gondermek icin gereken 2. dosyanin adini yaziniz: "))
 	print(x * y)
 
 else :
